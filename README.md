@@ -3,7 +3,7 @@ Example Using maven profiles
 
 ## build
 * mvn package
-* java -jar target/project-1.0.jar
+* java -jar target/project-1.0.0.jar
 
 ## build environnement de test
 * mvn package -P test
